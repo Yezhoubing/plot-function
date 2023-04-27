@@ -1,3 +1,4 @@
+将nc文件绘制全球地图
 ```python
 from utils import plot
 ```
